@@ -4,7 +4,7 @@
 
 🔗 **[Clique aqui para acessar o site](https://maris-ss.github.io/dashboard-cic/)**
 
-![Preview do Dashboard](https://github.com/user-attachments/assets/139708c3-9a53-4eb9-a3a1-514233dc9843)
+![Preview do Dashboard](https://github.com/user-attachments/assets/6898f161-75dc-4b85-b96d-77bd781da9f4)
 
 ## Sobre o Projeto
 Construção de um dashboard funcional do zero em parceria com a empresa CIC. O objetivo foi resolver um problema de negócio real: transformar o processo maçante e "frio" de visualização e resolução de divergências de dados em um ambiente amigável, intuitivo e gamificado. 
